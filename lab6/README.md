@@ -1,3 +1,18 @@
+# Lab8
+
+npm run build
+
+
+
+
+
+
+
+
+
+
+
+
 # Lab 7
 
 Nội dung bài tập thực hành:
@@ -70,3 +85,14 @@ json-server --watch db.json -p 3001 -d 2000
 
 -d 2000 là delay 2s
 -p 3001 cổng chạy
+
+
+Nếu bạn đang Windowsở đây là những gì bạn phải làm theo:
+Nhấn [windows]nút và sau đó nhập PowerShell.
+Chạy nhưAdiministrator
+Sao chép và dán lệnh sau và nhấn[Enter]
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+Gõ Yvà đánh[Enter]
+Chạy lại lệnh và gõ Ahit[Enter]
+Đóng quyền hạn và thử lại
+Chúc các bạn thành công .
